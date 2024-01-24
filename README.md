@@ -6,11 +6,6 @@ This project demonstrates advanced Hibernate mappings and features, providing a 
 
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
-- [Features](#features)
-- [How to Run](#how-to-run)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dependencies
 
